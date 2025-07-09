@@ -1,8 +1,6 @@
-# codsoft2
+## Artificial Intelligence  Projects
 
-###  CodSoft Artificial Intelligence Internship Projects
-
-Welcome to my GitHub repository for the **CodSoft Artificial Intelligence Internship**!
+Welcome to my GitHub repository 
 This space showcases hands-on AI projects focused on core concepts and real-world applications:
 
 1. Rule-Based Chatbot – Built with predefined logic and pattern-matching for interactive conversations.
